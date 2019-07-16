@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "柯禕藍 K. P. van Dam"
 title_separator          : "-"
-name                     : &name "Kellen Parker van Dam, MA, PhD"
+name                     : &name "Kellen Parker van Dam"
 description              : &description "Postdoctoral researcher, Universität Zürich Institut für Vergleichende Sprachwissenschaft"
 url                      : https://keyilan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
