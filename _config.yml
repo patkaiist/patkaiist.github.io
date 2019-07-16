@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kellen Parker van Dam, MA, PhD"
+title                    : "柯禕藍 K. P. van Dam"
 title_separator          : "-"
-name                     : &name "Kellen Parker van Dam"
-description              : &description "Postdoctoral researcher, University of Zürich"
-url                      : https://keyilan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kellen Parker van Dam, MA, PhD"
+description              : &description "Postdoctoral researcher, Universität Zürich Institut für Vergleichende Sprachwissenschaft"
+url                      : https://keyilan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "keyilan/keyilan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kellen Parker van Dam"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher, University of Zürich; Honorary adjunct, La Trobe University"
+  bio              : "Postdoctoral researcher, Universität Zürich Institut für Vergleichende Sprachwissenschaft; Honorary adjunct, La Trobe University"
   location         : "Zürich"
   employer         :
   pubmed           : 
