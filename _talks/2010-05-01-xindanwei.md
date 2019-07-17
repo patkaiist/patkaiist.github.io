@@ -11,3 +11,5 @@ location: "Shanghai, China"
 吴语对大多说上海人来说占据了他们每日与家人, 朋友交流的很大一部分. 方言的未来怎样? 是否有保存的价值? 就保护方言来说,现在做了什么? 
 
 The dialects of Wu are a big part of life for most native Shanghainese, used for day-to-day conversations with family and friends. But what does the future hold for the dialects? Is there value in preservation? What’s being done now to protect the language?
+
+[link](http://xindanwei.com/lang/en/2010/05/xindanwei-chitchat-edition-7/)
