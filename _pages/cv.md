@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-## Current position
+## Current positions
 
-Postdoctoral researcher, Department of Comparative Linguistics, University of Zürich
+- Postdoctoral researcher, Department of Comparative Linguistics, University of Zürich
 
-Honorary affiliate, Department of Language \& Linguistics, La Trobe University
+- Honorary affiliate, Department of Language & Linguistics, La Trobe University
 
 ## Education
 
