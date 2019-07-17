@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
+# Education
 
-### Ph.D in Linguistics, La Trobe University, 2018
+## Ph.D in Linguistics, La Trobe University, 2018
 
-* M.A. in Linguistics, National Tsing Hua University, 2014
+## M.A. in Linguistics, National Tsing Hua University, 2014
 
 
