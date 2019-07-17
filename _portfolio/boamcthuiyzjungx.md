@@ -4,6 +4,6 @@ excerpt: "Collaborative dictionary project with Mr. Wanglung Kelim Mossang of Ar
 collection: portfolio
 ---
 
-Boamc Thuiyz Jungx (boa̯m₃ t̪ɯ₂ ʒuŋ₂) is an ongoing project to develop a large-scale dictionary for Muishaung, a Tibeto-Burman language of the Upper Patkai range on the border between India and Myanmar. Muishaung is a Tangsa-Nocte language and has somewhere between 1000 and 2000 speakers.
+Boamc Thuiyz Jungx (boa̯m₃ t̪ɯi₂ ʒuŋ₂) is an ongoing project to develop a large-scale dictionary for Muishaung, a Tibeto-Burman language of the Upper Patkai range on the border between India and Myanmar. Muishaung is a Tangsa-Nocte language and has somewhere between 1000 and 2000 speakers.
 
-A version of the dictionary can be seen [here](https://xyy.tw/ms).
+A version of the dictionary can be accessed [here](https://xyy.tw/ms).
