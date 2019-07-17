@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tangsa-Nocte linguistic database"
+excerpt: "Development of a collaborative database intended to store the collected knowledge of Tangsa-Nocte language varieties by documentary researchers. 2018 – present. Funded through La Trobe University by a grant received by Dr. Stephen Morey and Dr. Jürgen Schöpf."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
