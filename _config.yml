@@ -103,8 +103,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kprkr"
-  orcid            : "0000-0002-7304-1685"
-  openstreetmap    :
+  orcid            : "https://orcid.org/0000-0002-7304-1685"
+  openstreetmap    : "kprkr"
   pinterest        :
   reddit           :
   soundcloud       :
