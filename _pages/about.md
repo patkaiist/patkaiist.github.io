@@ -18,4 +18,6 @@ Additionally, I developed and currently manage [Phonemica](http://phonemica.net)
 
 This site serves to consolidate publications, digital projects and information about relevant academic activities I've been involved with, mostly because I hate having to dig around for all that. Personal sites like [John Ohala's](http://linguistics.berkeley.edu/~ohala/) are a blessing.
 
+---
+
 [OpenStreetMap](https://www.openstreetmap.org/user/kprkr)
