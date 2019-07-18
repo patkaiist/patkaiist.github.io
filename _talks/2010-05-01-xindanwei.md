@@ -3,7 +3,7 @@ title: "The Future of the Shanghai Dialects"
 collection: talks
 type: "Talk"
 permalink: /talks/2010-05-01-xindanwei
-venue: "<b>新单位</b> xīn dān wèi"
+venue: "新单位 <b>xīn dān wèi</b>"
 date: 2010-05-28
 location: "Shanghai, China"
 ---
