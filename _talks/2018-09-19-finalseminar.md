@@ -8,4 +8,4 @@ date: 2018-09-19
 location: "Melbourne, Australia"
 ---
 
-https://keyilan.github.io/files/finalseminar.pdf
+[slides (pdf)](https://keyilan.github.io/files/finalseminar.pdf)
