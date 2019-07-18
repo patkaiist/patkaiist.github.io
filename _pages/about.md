@@ -17,3 +17,5 @@ I completed my masters thesis — _A Preliminary Description of the Historical D
 Additionally, I developed and currently manage [Phonemica](http://phonemica.net) (乡音苑), a crowd-sourced platform for oral history preservation and documentation of minority language varieties in and around China. Through Phonemica I work on [a number of other projects](https://github.com/phonemica) including mobile phone dictionaries and data-management software intended for use by community linguists working on under-documented languages.
 
 This site serves to consolidate publications, digital projects and information about relevant academic activities I've been involved with, mostly because I hate having to dig around for all that. Personal sites like [John Ohala's](http://linguistics.berkeley.edu/~ohala/) are a blessing.
+
+[OpenStreetMap](https://www.openstreetmap.org/user/kprkr)
