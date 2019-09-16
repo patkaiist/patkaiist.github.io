@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Linguistics Anthropology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019linganth
