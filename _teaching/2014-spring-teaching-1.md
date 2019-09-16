@@ -2,19 +2,15 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2019linganth
+venue: "University of Zürich, Department of Comparative Linguistics"
+date: 2019-09-16
+location: "Zürich, Switzerland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Linguistics Anthropology undergraduate lecture
 
-Heading 1
+Slides
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+coming soon
