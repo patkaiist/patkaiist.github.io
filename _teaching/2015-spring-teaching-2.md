@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Making Meaning & Semantics (LIN2MK & LIN3SEM)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "undergraduate tutorial"
+permalink: /teaching/20180lin3sem
+venue: "La Trobe University, Languages & Linguistics"
+date: 2018-08-01
+location: "Melbourne, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Semantics and meaning tutorial as part of the LIN2MK (2nd year) & LIN3SEM (3rd year) undergraduate major at La Trobe University. Lecturer: Dr. Stephen Morey.
 
-Heading 1
+Slides
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+coming soon
