@@ -1,12 +1,9 @@
 ---
-title: 'Blog Post number 1'
+title: 'Annals of Wu returns?'
 date: 2020-12-08
 permalink: /posts/2020/12/08/
 tags:
-  - Burmese
+  - meta
 ---
-
-Annals of Wu returns?
-======
 
 Quick test post. Thinking of putting my blog back up here on GitHub Pages. Just seeing how this is going.
