@@ -1,5 +1,5 @@
 ---
-title: "19HS 272-018 Sprache im Kontext: Anthropologische Linguistik"
+title: "19HS 272-018 Anthropologische Linguistik"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019linganth
