@@ -1,9 +1,9 @@
 ---
-title: 'Annals of Wu returns?'
+title: 'Test post'
 date: 2020-12-08
 permalink: /posts/2020/12/08/
 tags:
   - meta
 ---
 
-Quick test post. Thinking of putting my blog back up here on GitHub Pages. Just seeing how this is going.
+Quick test post. Need to incorporate the dates into the teaching and talks pages, I think.
