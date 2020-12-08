@@ -1,9 +1,9 @@
 ---
-title: "Linguistics Anthropology"
+title: "19HS 272-018 Sprache im Kontext: Anthropologische Linguistik"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019linganth
-venue: "University of Zürich, Department of Comparative Linguistics"
+venue: "Universität Zürich, Department of Comparative Language Science"
 date: 2019-09-16
 location: "Zürich, Switzerland"
 ---
