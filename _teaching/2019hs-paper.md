@@ -8,4 +8,4 @@ date: 2019-09-01
 location: "Zürich, Switzerland"
 ---
 
-advising of independent research paper, 3 ECTs
+Advising undergraduate level independent research paper, 3 ECTs
