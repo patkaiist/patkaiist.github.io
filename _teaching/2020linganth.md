@@ -8,9 +8,4 @@ date: 2020-09-01
 location: "Zürich, Switzerland"
 ---
 
-Linguistics Anthropology undergraduate lecture
-
-Slides
-======
-
-coming soon
+Linguistics Anthropology undergraduate lecture, autumn semester
