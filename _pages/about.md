@@ -14,4 +14,4 @@ I am a postdoctoral researcher in the [Department of Comparative Language Scienc
 
 I also developed and currently manage [Phonemica](http://phonemica.net) (乡音苑), a crowd-sourced platform for oral history preservation and documentation of minority language varieties in and around China. Through Phonemica I work on [a number of other projects](https://github.com/phonemica) including mobile phone dictionaries and data-management software intended for use by community linguists working on under-documented languages.
 
-For an up to date listing of publications, please see my (ORCID page](https://orcid.org/0000-0002-7304-1685) or my [Google Scholar listing](https://scholar.google.com/citations?user=uYZH1joAAAAJ&hl=en&oi=sra)
+For an up to date listing of publications, please see my [ORCID page](https://orcid.org/0000-0002-7304-1685) or my [Google Scholar listing](https://scholar.google.com/citations?user=uYZH1joAAAAJ&hl=en&oi=sra)
