@@ -14,9 +14,12 @@ I have been working with communities in the region since 2015 in order to help p
 
 ### Current work
 
-I am currently a postdoctoral researcher in the [Department of Comparative Language Science](https://www.comparativelinguistics.uzh.ch/en.html) at the University of Zürich, as well as an adjunct in the [Department of Languages and Cultures](https://www.latrobe.edu.au/languages-and-cultures) at La Trobe University.
+I am currently a postdoctoral researcher in the [Department of Comparative Language Science](https://www.comparativelinguistics.uzh.ch/en.html) at the University of Zürich, as well as an adjunct in the [Department of Languages and Cultures](https://www.latrobe.edu.au/languages-and-cultures) at La Trobe University where I advise graduate students working in Northeast India and Myanmar.
 
 My research involves applying novel tools and methods such as modern GIS data combined with historical maps, as well as applications of Bayesian inference on linguistic data in order to reconstruct subgroupings and the history of migration and language change in the regions. I am also involved in ongoing documentation of minority Sinitic varieties, a task which I have been involved in since 2009.
+
+I am also the Associate Academic Director for the _Center for [Cultural-Linguistic Diversity – Eastern Himalaya](http://ccld-eh.org)_ (CCLD-EH) and
+_Training and Resources for Indigenous Community Linguists_ (TRICL) program.
 
 ### Past work
 
