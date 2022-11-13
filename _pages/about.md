@@ -12,6 +12,8 @@ I am an historical phonologist specialising in Sino-Tibetan and Tai languages in
 
 I have been working with communities in the region since 2015 in order to help preserve and revitalise under-documented languages, especially regarding issues of language rights and representation. This involves engaging speakers and community linguists through training workshops as well as a number of regional open-access conferences and journals in an effort to increase representation of speech communities by their members.
 
+You can find me on Mastodon at @kprkr@sciences.social.
+
 ### Current work
 
 I am currently a postdoctoral researcher in the [Department of Comparative Language Science](https://www.comparativelinguistics.uzh.ch/en.html) at the University of Zürich, as well as an adjunct in the [Department of Languages and Cultures](https://www.latrobe.edu.au/languages-and-cultures) at La Trobe University where I advise graduate students working in Northeast India and Myanmar.
